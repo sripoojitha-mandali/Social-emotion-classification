@@ -43,3 +43,4 @@ Clone the repository and navigate to the project directory. Run the Python scrip
 ## Conclusion
 We successfully developed a novel hybrid neural network model, enhancing the accuracy and interpretability of social emotion classification, guided by supervised learning techniques.
 
+WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK
