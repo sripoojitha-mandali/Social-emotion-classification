@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar  1 11:20:38 2018
-
-@author: prash
-"""
-
 import json
 from keras.models import model_from_json, load_model
 from keras.preprocessing import sequence
